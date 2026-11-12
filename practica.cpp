@@ -40,7 +40,11 @@ int main()
         switch (opcion)
         {
         case 1:
-            cout << "Falta agregar esta opcion" << endl;
+            cout << "En nuestro menu contamos con: " << endl;
+            cout << "1. Hamburguesa" << endl;
+            cout << "2. Hot-Dog" << endl;
+            cout << "3. Papas Fritas" << endl;
+            cout << "Si quiere comprar escoja otro menu" << endl;
             break;
         case 2:
             cout << "Falta agregar esta feature" << endl;
